@@ -88,7 +88,7 @@
         <!--LABELS-->
             <string name="label_download_error">Échec de la connexion au serveur</string>
             <string name="label_download">Télécharger</string>
-            <string name="label_architecture">Architectuur</string>
+            <string name="label_architecture">Architecture</string>
             <string name="label_variant">Variante</string>
             <string name="invalid_combo">Combinaison incorrecte</string>
             <string name="label_install">Installer</string>
